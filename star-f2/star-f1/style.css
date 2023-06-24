@@ -1,0 +1,63 @@
+.bd-car {
+    height: 300px;
+    
+}
+
+.c-header {
+    
+    text-align: center;
+    
+}
+
+.our-m {
+    height: 400px;
+    
+}
+
+.o-m {
+    text-align: center;
+    
+
+}
+
+.f-box {
+    height: 400px;
+}
+
+.o-v {
+    text-align: center;
+    
+}
+
+h2 {
+    padding-top: 50px;
+}
+
+ul a:hover {
+    background-color: lightgray
+}
+
+span {
+    background-color: lightgray;
+}
+
+.map {
+    height: 400px;
+}
+
+.map-box {
+    height: 600px;
+    text-align: center;
+}
+
+.o-m-p {
+    padding-top: 10px;
+    text-align: center;
+    font-size: large;
+}
+
+.o-v-p {
+    padding-top: 10px;
+    text-align: center;
+    font-size: large;
+}
